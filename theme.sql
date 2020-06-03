@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 03, 2020 at 05:44 AM
+-- Generation Time: Jun 03, 2020 at 05:52 AM
 -- Server version: 10.4.11-MariaDB
 -- PHP Version: 7.4.6
 
@@ -41,7 +41,8 @@ CREATE TABLE `pet` (
 --
 
 INSERT INTO `pet` (`name`, `owner`, `species`, `sex`, `birth`, `death`) VALUES
-('Chuleta', 'Crisber', 'Perra', 'f', '2020-06-30', '2020-06-17');
+('Chuleta', 'Crisber', 'Perra', 'f', '2020-06-30', '2020-06-17'),
+('Bella', 'Barbara', 'Perra', 'f', '2020-06-30', '2020-06-25');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
