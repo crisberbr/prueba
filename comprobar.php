@@ -36,7 +36,7 @@ $conexion=mysqli_connect("localhost", "root","","theme");
 		<thead>
     <tr>
       <th scope="col">Name</th>esto es una prueba 
-      <th scope="col">Owner</th>
+      <th scope="col">Owner</th>pijkjbjb
       <th scope="col">Species</th>
       <th scope="col">Sex</th>
 	  <th scope="col">Birth</th>
